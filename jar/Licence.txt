@@ -1,0 +1,3 @@
+Licence: 
+Please download gsea jar file from http://software.broadinstitute.org/gsea/downloads.jsp.
+Foe licence follow: http://software.broadinstitute.org/gsea/license_terms_list.jsp
